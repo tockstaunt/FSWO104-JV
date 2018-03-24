@@ -1,4 +1,4 @@
-package com.keithcollier.Servlet;
+package com.keithcollier.lesson2handson;
 
 import org.springframework.boot.SpringApplication;
 
@@ -8,9 +8,9 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 
 @ServletComponentScan
 @SpringBootApplication
-public class ServletApplication {
+public class Lesson2HandsOnApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ServletApplication.class, args);
+		SpringApplication.run(Lesson2HandsOnApplication.class, args);
 	}
 }

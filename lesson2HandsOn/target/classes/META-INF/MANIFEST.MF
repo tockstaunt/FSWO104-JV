@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Built-By: Keith
 Build-Jdk: 9.0.4
-Implementation-Title: Servlet
+Implementation-Title: lesson2HandsOn
 Implementation-Version: 0.0.1-SNAPSHOT
 Implementation-Vendor-Id: com.keithcollier
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/Servlet
+ ot-starter-parent/lesson2HandsOn
 Created-By: Maven Integration for Eclipse
 

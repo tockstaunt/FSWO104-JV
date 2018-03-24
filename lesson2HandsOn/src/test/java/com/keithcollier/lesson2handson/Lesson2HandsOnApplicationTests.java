@@ -1,4 +1,4 @@
-package com.keithcollier.Servlet;
+package com.keithcollier.lesson2handson;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ServletApplicationTests {
+public class Lesson2HandsOnApplicationTests {
 
 	@Test
 	public void contextLoads() {

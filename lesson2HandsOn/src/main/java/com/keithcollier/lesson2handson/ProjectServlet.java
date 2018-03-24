@@ -1,4 +1,4 @@
-package com.keithcollier.Servlet;
+package com.keithcollier.lesson2handson;
 
 import java.io.IOException;
 
