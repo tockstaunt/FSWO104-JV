@@ -1,7 +1,6 @@
 package com.keithcollier.lesson2handson;
 
 import java.io.IOException;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
