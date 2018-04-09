@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>My Web Application</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+	<h1>Result</h1>
+    <p th:text="'name: ' + ${homemessage.name}" />
+    <p th:text="'message: ' + ${homemessage.message}" />
+    <a href="/home">Submit another message</a>
+</body>
+</html>
